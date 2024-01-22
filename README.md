@@ -1,5 +1,5 @@
-# PearScript Studio
-
+ # PearScript Studio <img align="center" alt="Banner" src="./vite-project/src/assets/pear-svgrepo-com.svg" width="35px" height="35px">
+ 
 Welcome to PearScript Studio – Your Online Collaborative Coding Environment!
 
 ## Overview
